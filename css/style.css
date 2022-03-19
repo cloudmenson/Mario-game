@@ -42,7 +42,7 @@ h2 {
   left: 580px;
 }
 .animation {
-  animation: pipeMove 1s infinite linear;
+  animation: pipeMove 0.8s infinite linear;
 }
 @keyframes pipeMove {
   0% {
